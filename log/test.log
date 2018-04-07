@@ -76,3 +76,4 @@ Processing by StaticController#about as HTML
   Rendered static/about.erb within layouts/application (2.4ms)
 Completed 200 OK in 281ms (Views: 269.4ms | ActiveRecord: 0.0ms)
   [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
